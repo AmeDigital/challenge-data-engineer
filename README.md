@@ -1,3 +1,5 @@
+# Data Engineer
+
 **Propósito**
 
 Este desafio tem como objetivo avaliar sua forma de resolver problemas. Ao solucioná-lo, você nos mostrará:
@@ -37,13 +39,13 @@ O primeiro arquivo se chama *base_de_respostas_10k_amostra.csv* e o segundo, *ba
 
 A imagem abaixo contém a estrutura do banco de dados que você vai implementar. Você também pode acessar a imagem em tamanho maior no arquivo *mer-summer-job.png* , que está em anexo no projeto.
 
-![](imagens/clip_image002.jpg)
+![](imagens/Picture1.jpg)
 
 A tabela abaixo faz um mapeamento dos campos do arquivo CSV para as tabelas do banco. Dessa forma, você saberá exatamente o que buscar e analisar:
 
-![](imagens/clip_image004.jpg)
+![](imagens/Picture2.jpg)
 
-![](imagens/clip_image006.jpg)
+![](imagens/Picture3.jpg)
 
 **Regras de negócio**
 
@@ -71,11 +73,11 @@ Com sua estrutura do banco pronta, você poderá realizar consultas SQL no banco
 
 4. Qual a média e o desvio padrão do salário dos usuários que usam Slack para cada tamanho de empresa disponível? (dica: o resultado deve ser uma tabela semelhante a apresentada abaixo)
 
-![](imagens/clip_image008.jpg)
+![](imagens/Picture4.jpg)
 
 5. Qual a diferença entre a média de salário dos respondentes do Brasil que acham que criar código é um hobby e a média de todos de salário de todos os respondentes brasileiros agrupado por cada sistema operacional que eles usam? (dica: o resultado deve ser uma tabela semelhante a apresentada abaixo)
 
-![](imagens/clip_image010.jpg)
+![](imagens/Picture5.jpg)
 
 6. Quais são as top 3 tecnologias mais usadas pelos desenvolvedores?
 
@@ -83,7 +85,7 @@ Com sua estrutura do banco pronta, você poderá realizar consultas SQL no banco
 
 8. A tabela abaixo contém os salários mínimos mensais de cinco países presentes na amostra de dados. Baseado nesses valores, gostaríamos de saber quantos usuários ganham mais de 5 salários mínimos em cada um desses países.
 
-![](imagens/clip_image012.jpg)
+![](imagens/Picture6.jpg)
 
 **Stack de tecnologias**
 
@@ -103,13 +105,13 @@ Fique à vontade caso queira utilizar alguma IDE para modelar o seu banco de dad
 
 Nosso time está curioso para ver o seu projeto. Esperamos que seu entregável final contenha os seguintes ítens:
 
-1\. Um arquivo de introdução nos explicando a visão geral do seu projeto e quais tecnologias utilizou (ex: PostgreSQL 9.6).
+1. Um arquivo de introdução nos explicando a visão geral do seu projeto e quais tecnologias utilizou (ex: PostgreSQL 9.6).
 
-2\. Um arquivo contendo as respostas das questões que fizemos acima.
+2. Um arquivo contendo as respostas das questões que fizemos acima.
 
-3\. As consultas SQL que você realizou no banco para responder as perguntas.
+3. As consultas SQL que você realizou no banco para responder as perguntas.
 
-4\. Os arquivos com o seu código utilizado para ler os arquivos textos e publicar os dados no banco.
+4. Os arquivos com o seu código utilizado para ler os arquivos textos e publicar os dados no banco.
 
 Caso você tenha dificuldade de finalizar o seu projeto, nós encorajamos fortemente que nos envie a sua evolução (consultas SQL, código, descrição de como resolveria o problema, etc.).
 
