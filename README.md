@@ -39,13 +39,13 @@ O primeiro arquivo se chama *base_de_respostas_10k_amostra.csv* e o segundo, *ba
 
 A imagem abaixo contém a estrutura do banco de dados que você vai implementar. Você também pode acessar a imagem em tamanho maior no arquivo *mer-summer-job.png* , que está em anexo no projeto.
 
-![](imagens/Picture1.jpg)
+![](imagens/Picture1.png)
 
 A tabela abaixo faz um mapeamento dos campos do arquivo CSV para as tabelas do banco. Dessa forma, você saberá exatamente o que buscar e analisar:
 
-![](imagens/Picture2.jpg)
+![](imagens/Picture2.png)
 
-![](imagens/Picture3.jpg)
+![](imagens/Picture3.png)
 
 **Regras de negócio**
 
@@ -73,11 +73,11 @@ Com sua estrutura do banco pronta, você poderá realizar consultas SQL no banco
 
 4. Qual a média e o desvio padrão do salário dos usuários que usam Slack para cada tamanho de empresa disponível? (dica: o resultado deve ser uma tabela semelhante a apresentada abaixo)
 
-![](imagens/Picture4.jpg)
+![](imagens/Picture4.png)
 
 5. Qual a diferença entre a média de salário dos respondentes do Brasil que acham que criar código é um hobby e a média de todos de salário de todos os respondentes brasileiros agrupado por cada sistema operacional que eles usam? (dica: o resultado deve ser uma tabela semelhante a apresentada abaixo)
 
-![](imagens/Picture5.jpg)
+![](imagens/Picture5.png)
 
 6. Quais são as top 3 tecnologias mais usadas pelos desenvolvedores?
 
@@ -85,7 +85,7 @@ Com sua estrutura do banco pronta, você poderá realizar consultas SQL no banco
 
 8. A tabela abaixo contém os salários mínimos mensais de cinco países presentes na amostra de dados. Baseado nesses valores, gostaríamos de saber quantos usuários ganham mais de 5 salários mínimos em cada um desses países.
 
-![](imagens/Picture6.jpg)
+![](imagens/Picture6.png)
 
 **Stack de tecnologias**
 
