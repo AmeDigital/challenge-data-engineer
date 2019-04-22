@@ -33,7 +33,7 @@ Nós te daremos o modelo Entidade Relacionamento do banco de dados, mas caberá 
 
 Você encontrará no anexo desse projeto dois arquivos, o primeiro dos quais contém uma amostra de apenas 10 mil linhas de respostas à pesquisa, e o segundo, uma explicação do significado das colunas de respostas.
 
-O primeiro arquivo se chama *base_de_respostas_10k_amostra.csv* e o segundo, *base_de_conhecimento.csv.* Caso queira ver os resultados completos da pesquisa, basta acessar esse [link do Kaggle](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey).
+O primeiro arquivo se chama [base_de_respostas_10k_amostra.csv](base_de_respostas_10k_amostra.csv) e o segundo, [base_de_conhecimento.csv](base_de_conhecimento.csv). Caso queira ver os resultados completos da pesquisa, basta acessar esse [link do Kaggle](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey).
 
 **Estrutura do banco de dados**
 
